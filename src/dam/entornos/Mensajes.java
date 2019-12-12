@@ -15,7 +15,7 @@ public class Mensajes {
 		mensajeProfesor();
 		//
 		// Pon la llamada a tu método a partir de aqui
-			
+		alumnoFila1PC2();	
 		
 	}
 	
@@ -29,7 +29,13 @@ public class Mensajes {
 	}	
 	
 	// Pon tu método a partir de aqui
-	
+	private static void  alumnoFila1PC2() {
+		System.out.println("====================================");
+		System.out.println("Hola, soy JESUS FINALET alumno de ED");
+		System.out.println("FELIÇ ANY 2020 !!!!!!");
+		System.out.println("====================================");
+		System.out.println();
+	}
 	
 	
 	
